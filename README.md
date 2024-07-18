@@ -43,24 +43,24 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 Data Summary :
 
-![Screenshot (89)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/2623f3d1-a394-474c-b7db-9721b148dea8)
+12345678901234567890
 
 
 Home of my dashboard :
 
-![Screenshot (100)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/bf5ae243-56be-4167-a453-58395e3e7af7)
+12345678901234567890
 
 GENERAL VIEW:
 
-![Screenshot (97)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/a0406111-2fe7-48c8-a9d4-ad703cc81d2a)
+12345678901234567890
 
 Sales mode analysis :
 
-![Screenshot (98)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/68ddcc3f-5786-46e6-9ecd-2e3cc06cd1b6)
+12345678901234567890
 
 Age group analysis :
 
-![Screenshot (99)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/15f56054-d257-4386-b1a8-0e4571fa80f9)
+12345678901234567890
 
 
 Key Insights :
