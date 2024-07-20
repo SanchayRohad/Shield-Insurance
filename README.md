@@ -41,26 +41,26 @@ Objective :
 
 The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis lies in extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project offers valuable insights to comprehend the company's performance and facilitate informed decision-making based on data
 
-Data Summary :
-
-12345678901234567890
-
 
 Home of my dashboard :
 
-https://app.powerbi.com/groups/me/reports/d36da279-7473-42cd-a767-f3639d0032a4/ReportSection04857b056b8358bde428?experience=power-bi
+![image](https://github.com/user-attachments/assets/4b9b088a-dd7a-4722-8ae3-bdb65e4e20ea)
+
 
 GENERAL VIEW:
 
-12345678901234567890
+![image](https://github.com/user-attachments/assets/f31b9076-4573-45e4-87e0-57dc1a047fd5)
+
 
 Sales mode analysis :
 
-12345678901234567890
+![image](https://github.com/user-attachments/assets/9891d52e-0684-4a6a-9c68-9bf21e15a97a)
+
 
 Age group analysis :
 
-12345678901234567890
+![image](https://github.com/user-attachments/assets/9f36231e-1269-4158-aae4-99e2c4a00c89)
+
 
 
 Key Insights :
