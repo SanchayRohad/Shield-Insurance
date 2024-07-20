@@ -82,3 +82,11 @@ Key Insights :
 -The policy ID “POL4321HEL” has a customer base of 4,434. This indicates a significant number of customers who have chosen this particular policy for their insurance needs
 
 -The policy ID “POL2005HEL” has generated a substantial revenue of 324.3 million
+
+
+
+
+
+
+
+DashBoard Link :- https://app.powerbi.com/view?r=eyJrIjoiN2IxZTgxMGYtOGRmYy00ZWI2LWE2OTMtYzg0ZTA0OTQ1MmI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection04857b056b8358bde428
