@@ -48,8 +48,7 @@ Home of my dashboard :
 
 
 GENERAL VIEW:
-
-![image](https://github.com/user-attachments/assets/f31b9076-4573-45e4-87e0-57dc1a047fd5)
+![image](https://github.com/user-attachments/assets/1aa07497-ed4d-448c-b8ee-327830ad4abb)
 
 
 Sales mode analysis :
@@ -89,4 +88,4 @@ Key Insights :
 
 
 
-DashBoard Link :- https://app.powerbi.com/view?r=eyJrIjoiN2IxZTgxMGYtOGRmYy00ZWI2LWE2OTMtYzg0ZTA0OTQ1MmI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection04857b056b8358bde428
+DashBoard Link :- https://app.powerbi.com/view?r=eyJrIjoiZDRkY2JkODItMDNlNC00NTMxLTllY2QtZDNmMDY0ZTk2NDNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection04857b056b8358bde428
